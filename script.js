@@ -15,8 +15,8 @@ setTimeout(() => {
     "/MANIFESTO — How I live.",
     "/CLEAR — Wipe it all."
     ],
-    "/about me": "I'm hrlyy or mostly known as nick. I make really good (bad) websites. i love all my friends and tea.",
-    "/socials": "GitHub: github.com/hrlyy | Discord: hrlyy | No TikTok, I’m not 12.",
+    "/about me": "I'm clockwrkk or mostly known as clockwrkk. I make good (bad) websites. i love all my friends and tea.",
+    "/socials": "GitHub: github.com/clockwrkk | Discord: clockwrkk_ | No TikTok, I’m not 12.",
     "/projects": "TerminalVOID, AetherOS, and whatever’s next.",
     "/manifesto": "I make the most outrageous bullshit ever, anything fucking goes. If it's never meant to see the light of day, with me it will. NORMALIZE MAKING UNFILTERED CONTENT.",
     "/clear": "CLEAR"
